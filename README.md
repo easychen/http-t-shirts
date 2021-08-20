@@ -23,7 +23,7 @@ T恤图案主要采用组合的方式进行设计，其中的图标来自[thenou
 
 APP等无法支持链接的场合：
 
-> T恤图案由Easy(https://weibo.com/easy)设计
+> T恤图案由Easy( https://weibo.com/easy ) 设计
 
 ## 设计
 

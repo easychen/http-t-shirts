@@ -31,10 +31,10 @@ APP等无法支持链接的场合：
 
 | 0   | 1   |  2  |  3  |  4  |  5  |  6  |  7  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|![](t1.png) | ![](t2.png) | ![](t3.png) | ![](t4.png) | ![](t5.png) | ![](t6.png) | ![](t7.png) | ![](t8.png) |
-|![](t9.png) | ![](t10.png) | ![](t11.png) | ![](t12.png) | ![](t13.png) | ![](t14.png) | ![](t15.png) | ![](t16.png) |
-|![](t17.png) | ![](t18.png) | ![](t19.png) | ![](t20.png) | ![](t21.png) | ![](t22.png) | ![](t23.png) | ![](t24.png) |
-|![](t25.png) | ![](t26.png) | ![](t27.png) | ![](t28.png) | ![](t29.png) | ![](t30.png) |  |  |
+|![](images/t1.png) | ![](images/t2.png) | ![](images/t3.png) | ![](images/t4.png) | ![](images/t5.png) | ![](images/t6.png) | ![](images/t7.png) | ![](images/t8.png) |
+|![](images/t9.png) | ![](images/t10.png) | ![](images/t11.png) | ![](images/t12.png) | ![](images/t13.png) | ![](images/t14.png) | ![](images/t15.png) | ![](images/t16.png) |
+|![](images/t17.png) | ![](images/t18.png) | ![](images/t19.png) | ![](images/t20.png) | ![](images/t21.png) | ![](images/t22.png) | ![](images/t23.png) | ![](images/t24.png) |
+|![](images/t25.png) | ![](images/t26.png) | ![](images/t27.png) | ![](images/t28.png) | ![](images/t29.png) | ![](images/t30.png) |  |  |
 
 ## PDF 和 源文件
 

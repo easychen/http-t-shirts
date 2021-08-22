@@ -4,12 +4,14 @@ http状态码系列T恤设计稿
 
 ## 更新
 
-- **2021-08-23 00:26** 添加 `svg` 图片 
+- **2021-08-23 00:26** 添加 `svg` 图片，由 [Chuwen](https://github.com/PrintNow) 添加
 
 ## 设计
 
 如果你喜欢这些设计，欢迎分享给朋友。高清大图可查看[PDF](httpt.pdf)。
 
+<details open>
+  <summary>[高清矢量图] <code>.svg</code> 格式</summary>
 
 | 1   | 2   |  3  | 
 | --- | --- | --- |
@@ -23,6 +25,7 @@ http状态码系列T恤设计稿
 | ![409.svg-HTTP Code](images-svg/409.svg) | ![410.svg-HTTP Code](images-svg/410.svg) | ![413.svg-HTTP Code](images-svg/413.svg) |
 | ![418.svg-HTTP Code](images-svg/418.svg) | ![423.svg-HTTP Code](images-svg/423.svg) | ![500.svg-HTTP Code](images-svg/500.svg) |
 | ![502.svg-HTTP Code](images-svg/502.svg) | ![503.svg-HTTP Code](images-svg/503.svg) | ![504.svg-HTTP Code](images-svg/504.svg) |
+</details>
 
 <details>
   <summary><code>.png</code> 格式</summary>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2849.525" height="3505.099" viewBox="0 0 2849.525 3505.099">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_43);
+      }
+
+      .cls-2, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 64px;
+      }
+
+      .cls-3 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+      }
+
+      .cls-4 {
+        fill: #797777;
+        font-family: PingFangSC-Regular, PingFang SC;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-5, .cls-7 {
+        font-family: Helvetica;
+      }
+
+      .cls-6 {
+        fill: #ca3136;
+      }
+
+      .cls-7 {
+        font-size: 71px;
+      }
+    </style>
+    <clipPath id="clip-Artboard_43">
+      <rect width="2849.526" height="3505.099"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_43" data-name="Artboard – 43" class="cls-1">
+    <rect class="cls-8" width="2849.526" height="3505.099"/>
+    <path id="path2427" class="cls-2" d="M-32.705,436.919C400.671,165.76,770.636,193.2,1137.011-40.432c196.537,50.319,342.849,30.2,478.1-5.425,414.964,223.263,779.818,259.059,1169.711,488.2-32.406,239.264-103.771,446.008-222.794,612.963-144.416-90.452-281.057-126.392-413.115-130.187l-9.291,1627.336c-568.927,123.832-1051.144,70.328-1522.482-5.42L612.5,930.545c-165.972-5.635-292.253,66.039-422.4,130.187C64.929,861.294,6.445,650.72-32.706,436.919h0Z" transform="translate(43.705 168.857)"/>
+    <g id="组_46" data-name="组 46">
+      <g id="组_4" data-name="组 4" transform="translate(1218.365 628.533)">
+        <text id="Bad_Gateway" data-name="Bad Gateway" class="cls-3" transform="translate(206.445 625.003)"><tspan x="-232.969" y="0">Bad Gateway</tspan></text>
+        <text id="若关门_·_会留窗" data-name="若关门 · 会留窗" class="cls-4" transform="translate(206 747.008)"><tspan x="-231.472" y="0">若关门</tspan><tspan class="cls-5" y="0" xml:space="preserve"> · </tspan><tspan y="0">会留窗</tspan></text>
+        <g id="icon" transform="translate(489.4 0)">
+          <rect id="矩形_1" data-name="矩形 1" class="cls-6" width="69.914" height="204.365" rx="10" transform="translate(0 13.445)"/>
+          <text id="_5_0_2" data-name="5
+0
+2" class="cls-7" transform="translate(34.756 75)"><tspan x="-19.743" y="0">5</tspan><tspan x="-19.743" y="61">0</tspan><tspan x="-19.743" y="122">2</tspan></text>
+        </g>
+      </g>
+      <path id="np_door_885536_000000" d="M70.132,3.907V317.453H1.563v11.721h99.629V36.141h125.42L118.776,57.826V351.151l146.515-29.3v7.619H364.92V317.745l-68.569-.293V3.906ZM82.146,15.628H284.923V317.453h-7.912V24.42H89.47V317.453H82.144ZM265.291,40.243v269.3l-134.8,27.252V67.2Zm-83.208,160.1-29.3,5.861,2.3,11.5,29.3-5.875Z" transform="translate(1261.955 748.427)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2849.525" height="3505.099" viewBox="0 0 2849.525 3505.099">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_24);
+      }
+
+      .cls-2, .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 64px;
+      }
+
+      .cls-3 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+      }
+
+      .cls-4 {
+        fill: #797777;
+        font-family: PingFangSC-Regular, PingFang SC;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-5 {
+        fill: #ca3136;
+      }
+
+      .cls-6 {
+        font-size: 71px;
+        font-family: Helvetica;
+      }
+    </style>
+    <clipPath id="clip-Artboard_24">
+      <rect width="2849.526" height="3505.099"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_24" data-name="Artboard – 24" class="cls-1">
+    <rect class="cls-7" width="2849.526" height="3505.099"/>
+    <path id="path2427" class="cls-2" d="M-32.705,436.919C400.671,165.76,770.636,193.2,1137.011-40.432c196.537,50.319,342.849,30.2,478.1-5.425,414.964,223.263,779.818,259.059,1169.711,488.2-32.406,239.264-103.771,446.008-222.794,612.963-144.416-90.452-281.057-126.392-413.115-130.187l-9.291,1627.336c-568.927,123.832-1051.144,70.328-1522.482-5.42L612.5,930.545c-165.972-5.635-292.253,66.039-422.4,130.187C64.929,861.294,6.445,650.72-32.706,436.919h0Z" transform="translate(43.705 168.857)"/>
+    <g id="组_32" data-name="组 32">
+      <g id="组_4" data-name="组 4" transform="translate(1218.365 628.534)">
+        <text id="Continue" class="cls-3" transform="translate(206.445 625.003)"><tspan x="-161.041" y="0">Continue</tspan></text>
+        <text id="生活总得继续" class="cls-4" transform="translate(206 747.008)"><tspan x="-200" y="0">生活总得继续</tspan></text>
+        <g id="icon" transform="translate(489.4 0)">
+          <rect id="矩形_1" data-name="矩形 1" class="cls-5" width="69.914" height="204.365" rx="10" transform="translate(0 13.445)"/>
+          <text id="_1_0_0" data-name="1
+0
+0" class="cls-6" transform="translate(34.756 75)"><tspan x="-19.743" y="0">1</tspan><tspan x="-19.743" y="61">0</tspan><tspan x="-19.743" y="122">0</tspan></text>
+        </g>
+      </g>
+      <path id="np_play_1570736_EEEEEE" d="M132.628,9A123.628,123.628,0,1,0,256.255,132.628,123.715,123.715,0,0,0,132.628,9Zm0,12.061A111.566,111.566,0,1,1,21.061,132.628,111.48,111.48,0,0,1,132.628,21.061ZM100.5,69.213a19.181,19.181,0,0,0-9.423,2.638,20.2,20.2,0,0,0-9.706,16.961v87.257a20.392,20.392,0,0,0,9.706,17.055,19.724,19.724,0,0,0,19.505.188q37.739-21.82,75.476-43.722a19.728,19.728,0,0,0,0-34.2c-25.041-14.77-50.531-28.834-75.476-43.722a20.545,20.545,0,0,0-10.083-2.45Zm.471,11.967a8.39,8.39,0,0,1,3.675,1.037q37.668,21.767,75.383,43.629a7.424,7.424,0,0,1,3.863,6.6,7.575,7.575,0,0,1-3.863,6.69c-25.171,14.5-50.19,29.27-75.383,43.722a7.305,7.305,0,0,1-7.444-.094,7.818,7.818,0,0,1-3.769-6.784V89A7.8,7.8,0,0,1,97.2,82.217a7.254,7.254,0,0,1,3.769-1.037Z" transform="translate(1286.745 800.745)"/>
+    </g>
+  </g>
+</svg>

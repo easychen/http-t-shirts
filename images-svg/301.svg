@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2849.526" height="3505.1" viewBox="0 0 2849.526 3505.1">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_48);
+      }
+
+      .cls-2, .cls-7, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-8 {
+        stroke: #000;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 64px;
+      }
+
+      .cls-3 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-family: PingFangSC-Regular, PingFang SC;
+        letter-spacing: 1em;
+      }
+
+      .cls-5 {
+        fill: #797777;
+      }
+
+      .cls-6 {
+        fill: #ca3136;
+      }
+
+      .cls-7 {
+        font-size: 71px;
+        font-family: Helvetica;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+    </style>
+    <clipPath id="clip-Artboard_48">
+      <rect width="2849.526" height="3505.099"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_48" data-name="Artboard – 48" class="cls-1">
+    <rect class="cls-9" width="2849.526" height="3505.099"/>
+    <g id="组_4" data-name="组 4" transform="translate(20.276 79.988)">
+      <path id="path2427" class="cls-2" d="M-32.705,436.92C400.672,165.76,770.636,193.2,1137.011-40.432c196.537,50.319,342.849,30.2,478.1-5.425,414.964,223.263,779.818,259.059,1169.711,488.2-32.406,239.264-103.771,446.008-222.794,612.963-144.416-90.452-281.057-126.392-413.115-130.187l-9.291,1627.336c-568.927,123.832-1051.144,70.328-1522.483-5.42L612.5,930.545c-165.972-5.635-292.253,66.039-422.4,130.187C64.929,861.294,6.445,650.72-32.706,436.92h0Z" transform="translate(44.706 168.857)"/>
+      <g id="组_4-2" data-name="组 4" transform="translate(1127.939 628.534)">
+        <text id="Moved_Permanently" data-name="Moved Permanently" class="cls-3" transform="translate(326 625.003)"><tspan x="-302.313" y="0">Moved Permanently</tspan></text>
+        <text id="再也不见" class="cls-4" transform="translate(326.182 747.009)"><tspan x="-224" y="0">再</tspan><tspan class="cls-5" y="0">也不</tspan><tspan y="0">见</tspan></text>
+        <g id="icon" transform="translate(580.826 0)">
+          <rect id="矩形_1" data-name="矩形 1" class="cls-6" width="69.914" height="204.365" rx="10" transform="translate(0 13.445)"/>
+          <text id="_3_0_1" data-name="3
+0
+1" class="cls-7" transform="translate(33.756 77)"><tspan x="-19.743" y="0">3</tspan><tspan x="-19.743" y="61">0</tspan><tspan x="-19.743" y="122">1</tspan></text>
+        </g>
+        <g id="np_plane_1511424_FFFFFF" transform="translate(140.911 437.248) rotate(-90)">
+          <path id="路径_37" data-name="路径 37" class="cls-8" d="M199.087,316.212h-4.5l-11.261-24.333s-41.893-1.355-42.333-14.41c-.457-13.055,36.931-21.624,36.931-21.624l-8.551-81.973S-.436,179.274,0,148.2c.457-31.072,163.509-31.987,163.509-31.987l-5.419-61.7s.457-41,37.829-54.51" transform="translate(0 0)"/>
+          <path id="路径_38" data-name="路径 38" class="cls-8" d="M0,315.755H4.5l11.261-23.876s41.893-1.355,42.333-14.41c.457-13.055-37.389-21.624-37.389-21.624l9.008-81.973s169.806,5.4,169.369-25.671c-.457-31.072-163.509-31.987-163.509-31.987l5.4-61.7S40.521,13.515,3.15,0" transform="translate(194.583 0.457)"/>
+          <path id="路径_39" data-name="路径 39" class="cls-8" d="M0,3.206s35.137-7.214,69.816,0" transform="translate(163.053 51.76)"/>
+          <path id="路径_40" data-name="路径 40" class="cls-8" d="M0,0,4.962,35.576" transform="translate(178.358 256.301)"/>
+          <path id="路径_41" data-name="路径 41" class="cls-8" d="M5.419,0,0,35.576" transform="translate(209.892 256.301)"/>
+          <path id="路径_42" data-name="路径 42" class="cls-8" d="M0,29.735V0H21.606V27.483" transform="translate(77.932 91.439)"/>
+          <path id="路径_43" data-name="路径 43" class="cls-8" d="M22.064,30.175V0H0V27.923" transform="translate(294.134 91.436)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

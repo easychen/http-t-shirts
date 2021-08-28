@@ -13,7 +13,7 @@ http status code series T-shirt design
 If you like these designs, feel free to share them with your friends. HD images can be viewed in [PDF](httpt.pdf).
 
 <details open>
-  <summary>[高清矢量图] <code>.svg</code> 格式</summary>
+  <summary><code>.svg</code></summary>
 
 | 1   | 2   |  3  | 
 | --- | --- | --- |
@@ -30,7 +30,7 @@ If you like these designs, feel free to share them with your friends. HD images 
 </details>
 
 <details>
-  <summary><code>.png</code> 格式</summary>
+  <summary><code>.png</code></summary>
 
 | 1   | 2   |  3  | 
 | --- | --- | --- |

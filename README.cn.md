@@ -1,16 +1,14 @@
-[简体中文](./README.cn.md)
-
 # http-t-shirts
 
-http status code series T-shirt design
+http状态码系列T恤设计稿
 
-## Update
+## 更新
 
-- **2021-08-23 00:26** Added `svg` image by [Chuwen](https://github.com/PrintNow)
+- **2021-08-23 00:26** 添加 `svg` 图片，由 [Chuwen](https://github.com/PrintNow) 添加
 
-## Design
+## 设计
 
-If you like these designs, feel free to share them with your friends. HD images can be viewed in [PDF](httpt.pdf).
+如果你喜欢这些设计，欢迎分享给朋友。高清大图可查看[PDF](httpt.pdf)。
 
 <details open>
   <summary>[高清矢量图] <code>.svg</code> 格式</summary>
@@ -47,33 +45,31 @@ If you like these designs, feel free to share them with your friends. HD images 
 </details>
  
 
-## Why open source
+## 为什么开源
 
-Before the sale for a period of time, and then the cooperation of the store did not engage in the stop. But I often get asked if I can still buy it, so I decided to open source it for interested students to print it themselves.
+之前售卖过一段时间，后来合作的店铺不搞了就停了。但经常有同学问我还能不能买到，所以决定开源出来，供有兴趣的同学自己印制。
 
-## Authorization
+## 授权
 
-The T-shirt pattern is mainly designed using a combination of icons from [thenounproject.com](http://thenounproject.com/), I have purchased the license when I designed it, but if you want to use it, you may need to purchase the license yourself.
+T恤图案主要采用组合的方式进行设计，其中的图标来自[thenounproject.com](http://thenounproject.com/)，我设计时已购买了授权，但如果你要使用，可能需要自行购买授权。
 
-With that in mind, the design is licensed under CC-BY. You may.
+在此前提下，设计在CC-BY下授权。你可以：
 
-- print it yourself
-- Or you can sell it commercially
+- 自行印制
+- 也可以商用销售
 
-However, you need to indicate the source of the design in the description of the item, in the following style.
+但需要在商品的介绍中注明设计来源，样式如下：
 
-For web pages and other occasions where links are supported.
+网页等支持链接的场合：
 
-> T-shirt pattern designed by [@easychen](https://twitter.com/easychen)
+> T恤图案由[Easy](https://weibo.com/easy)设计
 
-When the link is not supported by APP, etc.
+APP等无法支持链接的场合：
 
-> T-shirt pattern designed by @easychen ( https://twitter.com/easychen )
+> T恤图案由Easy( https://weibo.com/easy ) 设计
 
 
-## PDF and source files
+## PDF 和 源文件
 
-1. PDF [download](httpt.pdf)
-1. source file The pattern is designed by Adobe XD, currently available for free download [download](httpt.xd)
-
-Translated with www.DeepL.com/Translator
+1. PDF [下载](httpt.pdf)
+1. 源文件 图案采用Adobe XD 设计，目前可免费下载 [下载](httpt.xd)
